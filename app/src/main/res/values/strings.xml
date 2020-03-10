@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Croco</string>
+    <string name="hello_croco">Hello Croco!!</string>
+    <string name="assistant">assistant</string>
+    <string name="gmail">Gmail</string>
+    <string name="contact">contact</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="btn_scan_qr" />
+    <string name="worry">worry</string>
+</resources>
